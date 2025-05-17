@@ -1,0 +1,10 @@
+models/*.keras
+venv/
+ENV/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
