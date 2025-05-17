@@ -2,7 +2,7 @@
 
 Une application intelligente basée sur l'intelligence artificielle (CNN) permettant de détecter les billets de banque marocains à partir d'une image. 
 
-Développée avec **TensorFlow/Keras**, **OpenCV** et déployée via **Streamlit**, cette application est conçue pour assister les personnes malvoyantes ou intégrer des distributeurs automatiques intelligents.
+Développée avec **TensorFlow/Keras**, **OpenCV** et déployée via **Streamlit**.
 
 ---
 
